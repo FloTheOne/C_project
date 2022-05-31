@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651161931 source:d:\newblocks\codeblocks\share\codeblocks\fisiere_scolalaaaa\incercarelabpa\main.c
+	"min_heap.h"
+
+1651161755 source:d:\newblocks\codeblocks\share\codeblocks\fisiere_scolalaaaa\incercarelabpa\min_heap.c
+	"min_heap.h"
+
+1651161755 d:\newblocks\codeblocks\share\codeblocks\fisiere_scolalaaaa\incercarelabpa\min_heap.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
