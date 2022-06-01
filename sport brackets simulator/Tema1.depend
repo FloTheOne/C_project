@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1653250779 source:d:\newblocks\codeblocks\share\codeblocks\fisiere_scolalaaaa\tema1\functii.c
+	"header.h"
+
+1653251096 d:\newblocks\codeblocks\share\codeblocks\fisiere_scolalaaaa\tema1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653251025 source:d:\newblocks\codeblocks\share\codeblocks\fisiere_scolalaaaa\tema1\main.c
+	"header.h"
+
